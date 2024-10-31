@@ -73,5 +73,5 @@ SELECT
     valor_venda,
     desconto_aplicado,
     (valor_venda - (valor_venda * desconto_aplicado)) AS valor_final_com_desconto
-FROM dw.fato_vendas;
+FROM dw.fato_vendas;	
 
