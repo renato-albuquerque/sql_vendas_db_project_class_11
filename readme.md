@@ -11,29 +11,29 @@ Instrutora: [Nayara Wakweski](https://github.com/NayaraWakewski) <br>
 
 ### Resumo
 
-Parte 01
+`Parte 01`
 - Criar o banco de dados (vendas_db).
 - Criar as tabelas.
 - Inserir os dados nas tabelas.
 
-Parte 02
+`Parte 02`
 - Criar o banco de dados (schema) `stage`.
 - Criar as tabelas.
 - Inserir os dados nas tabelas.
 - Etapa de ETL (Extract, Transform, Load) / Tratamento dos dados (Verificar valores nulos, duplicados, inconsistentes [Negativos, zerados]).
 
-Parte 03
+`Parte 03`
 - Criar o banco de dados (schema) `dw` (Data warehouse).
 - Criar as tabelas.
 - Inserir os dados nas tabelas.
 
-Parte 04
+`Parte 04`
 - Conectar o data warehouse `dw` com o Microsoft Power BI.
 - Desenvolver o dashboard.
 
 <br>
 
-# Parte 01: 
+## Parte 01: 
 <br>
     
 ## Criar o Banco de Dados
