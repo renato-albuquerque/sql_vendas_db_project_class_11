@@ -33,8 +33,7 @@ Instrutora: [Nayara Wakweski](https://github.com/NayaraWakewski) <br>
 
 <br>
 
-## Parte 01: 
-<br>
+## Parte 01
     
 ## Criar o Banco de Dados
 - Comandos SQL: <br>
@@ -173,6 +172,8 @@ select * from public.cidades;
 - Arquivo anexo, 2- sql_inserir_dados.sql
 
 <br>
+
+
 
 
 
