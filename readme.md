@@ -12,7 +12,7 @@ Instrutora: [Nayara Wakweski](https://github.com/NayaraWakewski) <br>
 ### Resumo
 
 `Parte 01`
-- Criar o banco de dados (vendas_db).
+- Criar o banco de dados vendas_db `(producao)`.
 - Criar as tabelas.
 - Inserir os dados nas tabelas.
 
@@ -29,13 +29,13 @@ Instrutora: [Nayara Wakweski](https://github.com/NayaraWakewski) <br>
 
 `Parte 04`
 - Conectar o data warehouse `dw` com o Microsoft Power BI.
-- Desenvolver o dashboard.
+- Desenvolver o dashboard `Análise de Vendas`.
 
 <br>
 
 ## Parte 01
     
-## Criar o Banco de Dados
+## Criar o Banco de Dados `vendas_db`
 - Comandos SQL: <br>
 ```
 CREATE DATABASE vendas_db;
@@ -173,14 +173,31 @@ select * from public.cidades;
 
 <br>
 
+## Parte 02
 
+`Queries dsponíveis na pasta: 02_bd_stage` 
+- Criar o banco de dados (schema) `stage`.
+- Criar as tabelas.
+- Inserir os dados nas tabelas.
+- Etapa de ETL (Extract, Transform, Load) / Tratamento dos dados (Verificar valores nulos, duplicados, inconsistentes [Negativos, zerados]).   
 
+<br>
 
+## Parte 03
 
+`Queries dsponíveis na pasta: 03_bd_data_warehouse` 
+- Criar o banco de dados (schema) `dw` (Data warehouse).
+- Criar as tabelas.
+- Inserir os dados nas tabelas.  
 
+<br>
 
+## Parte 04
+`Informações dsponíveis na pasta: 04_power_bi` 
+- Conectar o data warehouse `dw` com o Microsoft Power BI.
+- Desenvolver o dashboard `Análise de Vendas`.
 
-
+<br>
 
 ## Meus Contatos
 
