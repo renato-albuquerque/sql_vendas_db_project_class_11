@@ -197,6 +197,9 @@ select * from public.cidades;
 - Conectar o data warehouse `dw` com o Microsoft Power BI.
 - Desenvolver o dashboard `Análise de Vendas`.
 
+- Visualização:
+![screenshot](/images/dashboard.png)
+
 <br>
 
 ## Meus Contatos
@@ -204,9 +207,3 @@ select * from public.cidades;
 - Business Card - [Renato Albuquerque](https://rma-contacts.vercel.app/)
 - Linkedin - [renato-malbuquerque](https://www.linkedin.com/in/renato-malbuquerque/)
 - Discord - [Renato Albuquerque#0025](https://discordapp.com/users/992621595547938837)
-
-
-
-
-
-
